@@ -16,7 +16,7 @@ This video does not contain a description.
 ## Content 
 * "Mojang IN BETA"
 * 'REBIRTH' in the top-left corner
-* `Lavacrusader` talks `Unknown` 
+* `Lavacrusader` talks to `Unknown` 
 * `Unknown` asks `Lavacrusader` to input their name, which turns into `Spirit` after being inputted.
 * `Unknown` apologizes for 'having to do this'.
 * The video turns white and then ends.
