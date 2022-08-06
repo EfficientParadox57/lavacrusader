@@ -13,10 +13,10 @@
 
 # TO-DO LIST
 Want to contribute to the github, join in one of the tasks and submit a pull request.
- -   [ ] Input all the known characters.
- -   [ ] Input all the current videos.
- -   [ ] Input all the Discord screenshots.
- -   [ ] Input all miscellaneous info.
+ -   [ ] Characters
+ -   [ ] Videos
+ -   [ ] Discord Info
+ -   [ ] Miscellanous Info
 
 
 
