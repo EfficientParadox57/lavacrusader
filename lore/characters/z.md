@@ -3,7 +3,7 @@
  # ***`Z`*** 
  *or `<z>`* 
  
-## Their skin is Steve, with the colours diluted white and a red 'Z' superimposed on the front body.
+ Their skin is Steve, with the colours diluted white and a red 'Z' superimposed on the front body.
  (Will be inserted soon)
  
 ## They appear in the following recordings:
