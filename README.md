@@ -1,2 +1,1 @@
-# lavacrusader
-A documentation of the xLavacrusader ARG.
+# xLavacrusader ARG
