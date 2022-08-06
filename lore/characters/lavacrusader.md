@@ -1,6 +1,7 @@
+[← Return](../characters/)
 
-
-# `Lavacrusader` or `xLavacrusader` or `Lava`
+ # ***`Lavacrusader`*** 
+ *or `xLavacrusader` or `Lava`*
 
 ## They are the recorder of the following videos:
 * [SPIRITMTN](../videos/SPIRITMTN)
