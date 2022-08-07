@@ -1,4 +1,4 @@
-[← Return](../README.md)
+[← Return](../../README.md)
 
 # Character Links
 - [Lavacrusader](../characters/lavacrusader.md)
