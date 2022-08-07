@@ -1,1 +1,1 @@
-[← Return](../characters/)
+[← Return](../characters/README.md)
