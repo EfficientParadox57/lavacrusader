@@ -1,4 +1,4 @@
-[← Return](../characters/)
+[← Return](../characters/README.md)
 
  # ***`Lavacrusader`*** 
  *or `xLavacrusader` or `Lava`*
