@@ -6,13 +6,11 @@
 ## Links
 - [Lavacrusader Youtube Channel](https://www.youtube.com/channel/UClaLfMlIn7jWOYFisrIGDAw) 
 - [Lavacrusader Group Discord](https://discord.gg/BcJJfNbTnm)[^discord]
-
-
-
+- [Character list](./lore/characters/README.md)
 
 
 # TO-DO LIST
-Want to contribute to the github, join in one of the tasks and submit a pull request.
+Want to contribute to the github? Join in one of the tasks and submit a pull request.
  -   [ ] Characters
  -   [ ] Videos
  -   [ ] Discord Info
