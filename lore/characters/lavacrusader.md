@@ -4,7 +4,7 @@
  *or `xLavacrusader` or `Lava`*
 
 ## They are the recorder of the following videos:
-* [SPIRITMTN](../videos/SPIRITMTN)
+* [SPIRITMTN](../../videos/SPIRITMTN)
 * [57630005414262730427577364472220]
 * [Rest]
 * [Leftway]
