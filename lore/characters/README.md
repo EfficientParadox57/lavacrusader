@@ -3,3 +3,4 @@
 # Character Links
 - [Lavacrusader](../characters/lavacrusader.md)
 - [Z](../characters/z.md) 
+- [Spirits](../characters/spirits.md)
