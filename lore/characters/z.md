@@ -4,7 +4,7 @@
  *or `<z>`* 
  
  Their skin is Steve, with the colours diluted white and a red 'Z' superimposed on the front body. </br>
- <img src=".../assets/images/z-avatar.png" width = "200"/>
+ <img src="https://github.com/EfficientParadox57/lavacrusader/blob/main/assets/images/z-avatar.png" width = "200"/>
  
 ## They appear in the following recordings:
  * [Rest] (talks in the chat)
