@@ -1,4 +1,4 @@
-[← Return](../videos)
+[← Return](../lavacrusader)
 
 # Video #1 : SPIRITMTN
   |Post Date   | Duration | Youtube Link |
