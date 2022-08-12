@@ -1,4 +1,4 @@
-[← Return](../videos)
+[← Return](../lavacrusader)
 
 # Video #3 : Rest
   |Post Date   | Duration | Youtube Link |
