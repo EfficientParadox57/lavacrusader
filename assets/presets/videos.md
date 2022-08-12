@@ -1,4 +1,4 @@
-[← Return](../videos)
+[← Return](../<!--insert previous page-->)
 
 # Video #<!-- insert number of the video -->: <!-- insert video title -->
   |Post Date   | Duration | Youtube Link |
